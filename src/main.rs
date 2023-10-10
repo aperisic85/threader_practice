@@ -1,4 +1,3 @@
-use std::ffi::c_ushort;
 use std::thread;
 use std::time::Instant;
 
